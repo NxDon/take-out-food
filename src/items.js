@@ -1,4 +1,4 @@
-function loadAllItems() {
+module.exports  =  function loadAllItems() { //es6 module
   return [{
     id: 'ITEM0001',
     name: '黄焖鸡',
